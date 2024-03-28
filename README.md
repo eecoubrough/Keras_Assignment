@@ -9,10 +9,13 @@ The MedMNIST datasets used were BloodMNIST for the multi-class classification ta
 
 
 Part_1_binary.ipynb
+<br/>
 Part_1_multiclass.ipynb
 
 Part_2_binary.ipynb
+<br/>
 Part_2_multiclass.ipynb
 
 Part_3_binary.ipynb
+<br/>
 Part_3_multiclass.ipynb
