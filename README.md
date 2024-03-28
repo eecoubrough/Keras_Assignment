@@ -3,4 +3,16 @@
 ### By Elise Coubrough (160007408)
 
 <br/>
-This repository contains the source code that satisfies the requirements of this AC50002 assignment. 
+This repository contains the Colab notebooks that satisfy the requirements of this AC50001 assignment. 
+
+The MedMNIST datasets used were BloodMNIST for the multi-class classification tasks, and PneumoniaMNIST for the binary classification tasks.
+
+
+Part_1_binary.ipynb
+Part_1_multiclass.ipynb
+
+Part_2_binary.ipynb
+Part_2_multiclass.ipynb
+
+Part_3_binary.ipynb
+Part_3_multiclass.ipynb
